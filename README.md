@@ -1,4 +1,4 @@
-# Mentor FPT – Hệ Thống Cố Vấn Học Vụ, Tính Điểm FE & Đồng Bộ FAP (Streamlit + Gemini + Hybrid RAG)
+# Unifs – Hệ Thống Cố Vấn Học Vụ, Tính Điểm FE & Đồng Bộ FAP (Streamlit + Gemini + Hybrid RAG)
 
 ## 🌟 Các Nâng Cấp Thực Dụng Cho Sinh Viên FPTU
 1. **Tính điểm thi cuối kỳ Final Exam (FE) chuẩn quy chế FPTU:** Tính chính xác số điểm FE tối thiểu cần đạt dựa trên điểm quá trình và trọng số môn học, kiểm tra đồng thời cả 2 điều kiện: **Điểm tổng kết $\ge 5.0$** và **Điểm sàn FE $\ge 4.0$** (tránh điểm liệt thành phần).
